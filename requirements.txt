@@ -1,0 +1,11 @@
+boto3==1.35.81
+botocore==1.35.81
+Faker==33.1.0
+jmespath==1.0.1
+localstack-client==2.7
+psycopg2-binary==2.9.10
+python-dateutil==2.9.0.post0
+s3transfer==0.10.4
+six==1.17.0
+typing_extensions==4.12.2
+urllib3==2.2.3
